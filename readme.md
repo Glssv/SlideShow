@@ -2,6 +2,8 @@
 
 Site totalmente criado por fins de estudo. peguei a basse de um video no youtube e como é apenas para estudo me senti a vontade de sair da minha zona de conforto e mudar cor, mudar titulo, mudar foto etc. você pode acessar o video clicando [aqui](https://youtu.be/qOO6lVMhmGc?si=A5qtf8fA1fL6cFLa).
 
+e se quiser ver o site que eu criei a partir desse projeto [clique aqui](https://projetonovo.netlify.app/)
+
 ---
 ## O que veremos nesse slide show?
 
